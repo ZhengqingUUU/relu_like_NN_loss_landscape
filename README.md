@@ -2,7 +2,7 @@
 
 ![](an_illustration.jpg)
 
-This repository reproduces the numerical results from the paper: [Loss Landscape of Shallow ReLU-like Neural Networks: Stationary Points, Saddle Escaping, and Network Embedding](https://openreview.net/forum?id=ogKE7LcvW6).
+This repository reproduces the numerical results from the paper: [Loss Landscape of Shallow ReLU-like Neural Networks: Stationary Points, Saddle Escape, and Network Embedding](https://openreview.net/forum?id=ogKE7LcvW6).
 
 ### Usage
 

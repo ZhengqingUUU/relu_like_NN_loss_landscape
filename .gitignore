@@ -1,2 +1,3 @@
 # Ignore all directories and their contents
 */
+.DS_Store
